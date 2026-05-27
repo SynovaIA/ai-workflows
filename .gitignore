@@ -1,0 +1,1 @@
+Nothing needs to be added to .gitignore since the changes only include documentation files (.md) which are source files that should be tracked in version control.
